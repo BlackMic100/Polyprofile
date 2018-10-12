@@ -43,7 +43,8 @@ client.on('ready', async () => {
 
 
 
-const adminprefix = "!!";
+
+
 const devs = ['257111476404224001','431932388684070913'];
 client.on('message', message => {
   var argresult = message.content.split(` `).slice(1).join(' ');
@@ -68,8 +69,6 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 }
 
 });
-
-
 
 
 
