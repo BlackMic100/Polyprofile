@@ -89,7 +89,7 @@ client.on("message", message => {
 ══════════ஜ۩۞۩ஜ════════════ 
 
 **:link: | الموقع الخاص بالبوت :** قريباٌ
-🔗 **| دعوة البوت** : https://discordapp.com/oauth2/authorize?client_id=494174202811645952&scope=bot&permissions=2146958583
+🔗 **| دعوة البوت** : https://discordapp.com/oauth2/authorize?client_id=500276769627045898&scope=bot&permissions=quran
 :exclamation:  **| لدعوة البوت ** : +invite
 :exclamation:  **| لأرسال اقتراح لصاحب البوت** : +sug
  `)
