@@ -110,7 +110,7 @@ client.on("message", message => {
           }
           voiceChannel.join()
             .then(connnection => {
-              let stream = yt('https://www.youtube.com/watch?v=Ktync4j_nmA', {audioonly: true});
+              let stream = yt('https://www.youtube.com/watch?v=oAlCxxixthg', {audioonly: true});
               const dispatcher = connnection.playStream(stream);
               dispatcher.on('end', () => {
                 voiceChannel.leave();
